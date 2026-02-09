@@ -5,17 +5,17 @@
 
 ---
 ## 🚀 About Me
-- Experienced in Golang, PostgreSQL, React, Java, Python
+- Experienced in `Golang`, `React`, `NextJS`, `C++`, `Java`, `Python`, `PostgreSQL`
 - Worked on Full Stack Development, Machine Learning, and Data Analysis
 
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React, JavaScript, HTML, CSS  
-**Backend:** Golang, Node.js, Python  
-**Databases:** MySQL, PostgreSQL, Redis  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Git  
-**Security & Networking:** TLS, DNS, Network Security
+**Frontend: `NextJS`, `React`, `JavaScript`, `HTML`, `CSS`   
+**Backend: `Golang`, `Node.js`, `Python`  
+**Databases: `MySQL`, `PostgreSQL`, `Redis`  
+**Cloud & DevOps: `AWS`, `Docker`, `Kubernetes`, `Git`  
+**Security & Networking:** `TLS`, `DNS`, `Network Security`
 
 ---
 ### 📫 Connect With Me

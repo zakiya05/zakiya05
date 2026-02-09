@@ -7,7 +7,6 @@
 ## 🚀 About Me
 - Experienced in Golang, PostgreSQL, React, Java, Python
 - Worked on Full Stack Development, Machine Learning, and Data Analysis
-- Build Projects
 
 ---
 

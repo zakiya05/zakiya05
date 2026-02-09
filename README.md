@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I'm Zakiya Khathun Pathan
 
-<!--
-**zakiya05/zakiya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎓 Master's in Computer Science @ University at Stony Brook | Graduating May 2026  
+#### 💻 Software Developer | Full Stack Engineer 
 
-Here are some ideas to get you started:
+---
+## 🚀 About Me
+- Experienced in Golang, PostgreSQL, React, Java, Python
+- Worked on Full Stack Development, Machine Learning, and Data Analysis
+- Build Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React, JavaScript, HTML, CSS  
+**Backend:** Golang, Node.js, Python  
+**Databases:** MySQL, PostgreSQL, Redis  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Git  
+**Security & Networking:** TLS, DNS, Network Security
+
+---
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/zakiya-pathan/) 
+- [Email](zakiya.pathan05@gmail.com)

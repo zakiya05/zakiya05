@@ -5,7 +5,7 @@
 
 ---
 ## 🚀 About Me
-- Experienced in `Golang`, `React`, `NextJS`, `C++`, `Java`, `Python`, `PostgreSQL`
+- Experienced in `Golang`, `React`, `NextJS`, `C++`, `Java`, `Python`, `PostgreSQL` , `Node.js`
 - Worked on Full Stack Development, Machine Learning, and Data Analysis
 
 ---

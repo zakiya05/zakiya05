@@ -11,11 +11,11 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend: `NextJS`, `React`, `JavaScript`, `HTML`, `CSS`   
-**Backend: `Java`, `Golang`, `Node.js`, `Python` , `C++`, `C#`, `C`   
-**Databases: `MySQL`, `PostgreSQL`, `Redis`, `NoSQL`   
-**Cloud & DevOps: `AWS`, `Docker`, `Kubernetes`, `Git`  
-**Security & Networking: `TLS`, `DNS`, `Network Security`  
+- Frontend: `NextJS`, `React`, `JavaScript`, `HTML`, `CSS`   
+- Backend: `Java`, `Golang`, `Node.js`, `Python` , `C++`, `C#`, `C`   
+- Databases: `MySQL`, `PostgreSQL`, `Redis`, `NoSQL`   
+- Cloud & DevOps: `AWS`, `Docker`, `Kubernetes`, `Git`  
+- Security & Networking: `TLS`, `DNS`, `Network Security`  
 
 ---
 ### 📫 Connect With Me
